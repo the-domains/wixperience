@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wixperience]]></title>
+        <description><![CDATA[Wixperience]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 13:51:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Design Indaba 2016: Interview With Jaime Hayon]]></title>
+            <description><![CDATA[<article><h1>Design Indaba 2016: Interview With Jaime Hayon</h1><p>It's four o'clock in the morning and Jaime Hayon is still going full speed, sitting on a couch in Cape Town, candidly telling us about the time he tattooed one of the world's top tattoo artists. Had he ever inked somebody before? Nope, and he never did again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f86a6be147d551b27ad334ff404c5fb1ce9b36.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/interview-designer-jaime-haydon-design-indaba</link>
+            <guid isPermaLink="false">5260bb1d-f34d-41c3-aee7-4534687edf55</guid>
+            <pubDate>Wed, 03 Aug 2016 13:51:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
