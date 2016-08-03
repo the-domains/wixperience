@@ -1,0 +1,14 @@
+layout_spectrum: 0.6527505128178746
+typography_spectrum: 0.06377513939514756
+color:
+  brandStrength: 0.889214892173186
+  lightness: 0.40050561306998134
+  saturation: 0.21341661573387682
+  rhythmicContrast: 0.8821083724033087
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: Wixperience
